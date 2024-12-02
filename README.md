@@ -38,6 +38,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
+</div>
+
+
+<div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
