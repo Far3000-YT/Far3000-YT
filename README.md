@@ -1,4 +1,4 @@
-<h3 align="center">Python / VSCode abuser !! :))</h3>
+<h3 align="center">🐍 Python / VSCode abuser !! Also future backend engineer 🔥🔥</h3>
 
 ###
 
