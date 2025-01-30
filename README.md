@@ -1,4 +1,4 @@
-<h3 align="center">I'll beat all of you. Advanced in Python / VSCode abuser !!</h3>
+<h3 align="center">Python / VSCode abuser !! :))</h3>
 
 ###
 
