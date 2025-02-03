@@ -1,4 +1,6 @@
-<h3 align="center">🐍 Python / VSCode abuser !! Also future backend engineer 🔥🔥</h3>
+<h3 align="center">🔥 Future backend engineer </h3>
+<h3 align="center">🐍 Proficient at Python + algos lover </h3>
+<h3 align="center">☁️ Learning now : Golang, Flask </h3>
 
 ###
 
