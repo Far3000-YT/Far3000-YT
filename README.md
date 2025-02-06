@@ -1,5 +1,5 @@
-<h3 align="center">🐍 Advanced at Python (6+ years experience) / API's usage / Statistics and Data Analysis </h3>
-<h3 align="center">🔥 Future backend dev </h3>
+<h3 align="center">🐍 Advanced at Python (6+ years experience) / API's usage </h3>
+<h3 align="center">😍 Statistics / Algos / Data Analysis Lover </h3>
 <h3 align="center">☁️ Learning now : Golang, Flask, Pandas / NumPy </h3>
 <h3 align="center">🧑🏻‍💻 LeetCode Profile : <a href = "https://leetcode.com/u/Far3k">Here</a> </h3>
 
