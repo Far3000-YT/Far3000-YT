@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/0xFar3000">
-    <img src="https://i.ibb.co/Y7NwBFNJ/image-2025-02-12-120416891.png" alt="Farès' GitHub Profile Picture" width="250">  <!-- Increased width for better visibility -->
+    <img src="https://i.ibb.co/Y7NwBFNJ/image-2025-02-12-120416891.png" alt="Farès' GitHub Profile Banner" width="100%">  <!--  Set width to 100% for full-width banner -->
   </a>
   <br><br>
    <h1>👋 Hello there, I'm Farès!</h1>
@@ -28,11 +28,11 @@
 
 <br>
 
-💼💸 I'm currently working on **Data Analysis on BTC (trying to find patterns on some timestamps)**
+💼 I'm currently working on: **Data Analysis on BTC (trying to find patterns on some timestamps)**
 <br>
-📚🔍 I'm currently learning **Numpy, Pandas, Golang, Flask**
+🔍 I'm currently learning: **Numpy, Pandas, Golang, Flask**
 <br>
-🗣️⚙️ You can ask me about **Python, API's (usage / scraping), C and Java !**
+🗣️ You can ask me about: **Python, API's (usage / scraping), C and Java !**
 <br>
 
 <br>
@@ -41,7 +41,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="28" alt="Go">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java">
@@ -54,6 +53,6 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Far3000-YT&theme=tokyo_night&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages" /> <!-- Increased width slightly -->
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Far3000-YT&theme=tokyo_night&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages" />
 </p>
 <br>
