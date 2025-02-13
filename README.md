@@ -25,15 +25,15 @@
 <br>
 
 <h3 align="left">💘 6+ years Python/API/Automation proficient, and a lover of Statistics, Algorithms, and Data Analysis!</h3>
-<h3 align="left">🔷 Recurrent Google AI Studio User!</h3>
+<h3 align="left">💎 Recurrent Google AI Studio User!</h3>
 
 <br>
 
-💼 I'm currently working on: **Data Analysis on BTC (trying to find patterns on some timestamps)**
+💼 I'm currently working on: **Data Analysis on BTC**
 <br>
-🔍 I'm currently learning: **Numpy, Pandas, Golang, Flask**
+🔍 I'm currently learning: **Pandas, Golang, Flask**
 <br>
-🗣️ You can ask me about: **Python, API's (usage / scraping), C and Java !**
+🗣️ You can ask me about: **Python and API's Usage / Scraping!**
 <br>
 
 <br>
