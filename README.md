@@ -24,7 +24,8 @@
 
 <br>
 
-<h3 align="left">🐍💘 6+ years Python/API/Automation proficient, and a lover of Statistics, Algorithms, and Data Analysis!</h3>
+<h3 align="left">💘 6+ years Python/API/Automation proficient, and a lover of Statistics, Algorithms, and Data Analysis!</h3>
+<h3 align="left">🔷 Recurrent Google AI Studio User!</h3>
 
 <br>
 
