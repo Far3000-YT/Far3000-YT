@@ -16,9 +16,9 @@
     💎 Recurrent Google AI Studio User :)
   </p>
 
-  <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">💼 Current Focus</h2>
+  <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">🎯 Current Focus</h2>
   <p style="font-size:1em; margin-bottom: 0.3em;">
-   💼 I'm currently working on: <strong>Data Analysis on BTC</strong>
+   💼 I'm currently working on: <strong>Data Analysis on BTC, Themes for Google AI Studio, PTP (Project to Prompt) (should work for all AI's)</strong>
    </p>
    <p style="font-size:1em; margin-bottom: 0.3em;">
    🔍 I'm currently learning: <strong>Pandas, Golang, Flask</strong>
