@@ -13,6 +13,9 @@
     💘 6+ years Python/API/Automation proficient, and a lover of Statistics, Algorithms, and Data Analysis!
   </p>
   <p style="font-size:1.2em; margin-top: 0.5em; margin-bottom: 1.5em;">
+    📈 Future Quant Trader
+  </p>
+  <p style="font-size:1.2em; margin-top: 0.5em; margin-bottom: 1.5em;">
     💎 Recurrent Google AI Studio User :)
   </p>
 
