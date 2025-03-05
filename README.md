@@ -7,6 +7,8 @@
 
 # ✨ Farès' Profile ✨
 
+</div>
+
 <div style="text-align: left; display: inline-block; max-width: 700px;">
   <h2 style="margin-bottom: 0.5em;">🚀 About Me</h2>
   <p style="font-size:1.2em; margin-bottom: 0.5em;">
@@ -32,6 +34,7 @@
 </div>
 
 <br>
+<div align="center">
 
 ## 🌐 Socials
 
