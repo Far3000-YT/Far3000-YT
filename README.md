@@ -12,7 +12,7 @@
 <div style="text-align: left; display: inline-block; max-width: 700px;">
   <h2 style="margin-bottom: 0.5em;">🚀 About Me</h2>
   <p style="font-size:1.2em; margin-bottom: 0.5em;">
-    💘 6+ years Python/API/Automation proficient, and a lover of Statistics, Algorithms, and Data Analysis!
+    💘 5+ years Python/API/Automation proficient, and a lover of Statistics, Algorithms, and Data Analysis!
   </p>
   <p style="font-size:1.2em; margin-top: 0.5em; margin-bottom: 1.5em;">
     📈 Future Quant Trader
