@@ -89,9 +89,4 @@
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 
 <br><br>
-
-## 📊 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far3000-YT&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude=Jupyter%20Notebook" alt="Top Languages">
-<br>
 </div>
