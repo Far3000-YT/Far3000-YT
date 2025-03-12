@@ -17,36 +17,15 @@
   <p style="font-size:1em; margin-bottom: 0.3em;">
    🗣️ Ask me about: <strong>Python, API's (Usage / Scraping), Automation and Trading (most advanced strategies)</strong>
   </p>
+
+  <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">🔍 SOCIALS</h2>
   <p style="font-size:1em; margin-bottom: 0.3em;">
-   🔍 Discord: @far3000
+    <strong>Discord:</strong> @far3000
+    <br>
+    <strong>X:</strong> @0xFar3000
+    <br>
+    <strong>LinkedIn:</strong> fares-bentaleb
+    <br>
+    <strong>Mail:</strong> far3000yt@gmail.com
   </p>
-</div>
-
-<br>
-<div align="center">
-
-## 🌐 Socials
-
-<a href="https://www.linkedin.com/in/fares-bentaleb" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.reddit.com/user/Various_Ad408" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
-</a>
-<a href="https://www.twitch.tv/clown_emoji_osu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://x.com/0xFar3000" target="_blank">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-</a>
-<a href="https://www.youtube.com/@Far3kyt" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-</a>
-<a href="mailto:far3000yt@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<br><br>
 </div>
