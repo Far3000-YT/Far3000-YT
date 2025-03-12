@@ -18,7 +18,7 @@
    <strong>Ask me about:</strong> Python, API's (Usage / Scraping), Automation and Trading (most advanced strategies)
   </p>
 
-  <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">🔍 SOCIALS</h2>
+  <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">🔍 Socials</h2>
   <p style="font-size:1em; margin-bottom: 0.3em;">
     <strong>Discord:</strong> @far3000
     <br>
