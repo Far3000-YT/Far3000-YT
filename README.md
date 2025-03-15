@@ -24,8 +24,6 @@
     <br>
     <strong>X:</strong> @0xFar3000
     <br>
-    <strong>LinkedIn:</strong> fares-bentaleb
-    <br>
     <strong>Mail:</strong> far3000yt@gmail.com
   </p>
 </div>
