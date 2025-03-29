@@ -4,7 +4,7 @@
     Python proficient (api's + automation tools)
   </p>
   <p style="font-size:1.2em; margin-bottom: 0.5em;">
-    I love trading (crypto / stocks), LoL and osu enjoyer 
+    Trading (crypto + stocks), LoL and osu enjoyer 
   </p>
 
   <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">Focus</h2>
