@@ -12,7 +12,7 @@
 
   <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">Focus</h2>
   <p style="font-size:1em; margin-bottom: 0.3em;">
-    <strong>Working on:</strong> JuniorISEP
+    <strong>Working on / Learning:</strong> Junior ISEP + Machine Learning Project (BTC/USD volume trading ltf algo)
   </p>
 
   <h2 style="margin-bottom: 0.5em; margin-top: 1.5em;">Socials</h2>
