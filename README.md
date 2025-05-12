@@ -2,6 +2,6 @@ https://far3k.xyz
 
 python goat
 
-trading tryhard, LoL and osu enjoyer 
+osu enjoyer + ai addict / future quant trader
 
 working on / learning : lumen, machine learning trading algos, embedding systems / ast module
