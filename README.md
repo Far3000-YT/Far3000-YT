@@ -1,7 +1,5 @@
 https://far3k.xyz
 
-python goat
+python python python python
 
-osu enjoyer + ai addict / future quant trader
-
-working on / learning : lumen, machine learning trading algos, embedding systems / ast module
+working on : lumen, embedding systems, ast
